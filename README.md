@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Verilog Project Template
 
+- I have to do tsmth daw eh
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
